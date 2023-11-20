@@ -1,16 +1,27 @@
-### Hi there 👋
+# ... a jste tady
 
-<!--
-**MichalStehlik/MichalStehlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kde? Na GitHubovém účtu Michala Stehlíka, učitele na Průmyslové škole v Liberci.
 
-Here are some ideas to get you started:
+## Co učím?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programování v jazyce C#
+- Programování v jazyce Typescript/Javascript
+- Vývoj aplikací v ASP.NET
+- Vývoj aplikací v Reactu
+- Dotazování v SQL
+- Návrh databází
+- Umělé inteligence
+
+## Co ještě umím?
+
+... ale mám šikovnější kolegy, kteří se tomu věnují víc?
+
+- Webové stránky (HTML a CSS)
+- Webdesign
+
+## Co bych se rád naučil?
+
+- Pořádně React Native
+- Next.js
+- Pořádně MAUI
+- Unity
